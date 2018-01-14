@@ -3,6 +3,7 @@ setup.cfg
 setup.py
 dadjokes/__init__.py
 dadjokes/dadjokes.py
+dadjokes/joke.py
 icanhazdadjoke.egg-info/PKG-INFO
 icanhazdadjoke.egg-info/SOURCES.txt
 icanhazdadjoke.egg-info/dependency_links.txt

@@ -13,6 +13,6 @@ For now it can only get a random joke:
 .. code-block:: python
 
   from dadjokes import dadjokes
-  joke = dadjokes.random
+  joke = dadjokes.joke
 
   print(joke)
